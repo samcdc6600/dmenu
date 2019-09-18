@@ -1,0 +1,9 @@
+bin/dmenu
+bin/dmenu_path
+bin/dmenu_run
+bin/stest
+man/man1/dmenu.1.gz
+man/man1/stest.1.gz
+/usr/local/share/licenses/dmenu-4.9_1/catalog.mk
+/usr/local/share/licenses/dmenu-4.9_1/LICENSE
+/usr/local/share/licenses/dmenu-4.9_1/MIT
